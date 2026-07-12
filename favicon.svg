@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#EBD8D3"/>
+  <g fill="none" stroke="#A9657A" stroke-width="2.2" stroke-linecap="round">
+    <path d="M32 34 C25 27 18 29 19.5 35 C20.5 40 30 40 31 33 C32 27 24 24 17 29"/>
+    <path d="M32 34 C39 27 46 29 44.5 35 C43.5 40 34 40 33 33 C32 27 40 24 47 29"/>
+  </g>
+  <circle cx="32" cy="34" r="3" fill="#B23A64"/>
+  <text x="32" y="53" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-weight="700" font-size="12" fill="#3A2A32">Sous</text>
+</svg>
